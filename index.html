@@ -1,3 +1,41 @@
-git add index.html
-git commit -m "Add initial HTML and CSS for the website"
-git push origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>컴퓨테이셔널 저널리즘</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #FDF5E6;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: 'Arial', sans-serif;
+        }
+        .background-dots {
+            position: absolute;
+            top: 20px;
+            left: 50px;
+        }
+        .wave {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="text-5xl text-red-500 font-bold mb-6">컴퓨테이셔널 저널리즘</h1>
+        <p class="text-lg text-gray-800">성균관대학교 미디어커뮤니케이션학과<br>
+            문화콘텐츠전공 2024720383 문애란</p>
+    </div>
+    <img src="https://placehold.co/600x400" alt="Mickey Mouse, Minnie Mouse, and Goofy lying on surfboards on the beach" class="mt-8">
+    <footer class="absolute bottom-4 text-gray-600 text-sm">
+        ©Disney
+    </footer>
+</body>
+</html>
