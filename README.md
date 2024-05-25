@@ -12,6 +12,9 @@
 **문장효과**
 ***문장효과***
 
-![0](https://github.com/s2irene/company_project/assets/88326175/80695588-2828-4efe-9966-e9bf4322efc5)
+<p align="center">
+  <img src="![0](https://github.com/s2irene/company_project/assets/88326175/5ffe6a29-060e-4015-adfa-7cf3265c1151)">
+</p>
 
-![1](https://github.com/s2irene/company_project/assets/88326175/f4e85fe9-32fd-45dc-9436-ecb381be4ca0)
+
+
