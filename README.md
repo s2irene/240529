@@ -1,6 +1,6 @@
-###### 최종과제 계획_애니메이션 현재/미래
-
 ![Disney](https://github.com/s2irene/Skku_class/assets/88326175/3d7ced5a-cf73-44c2-af72-52f27f301bbd)
+
+###### 최종과제 계획_애니메이션 현재/미래
 
 ### 1. 분석 대상 및 분야
 
