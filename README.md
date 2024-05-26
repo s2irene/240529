@@ -28,6 +28,8 @@
 
 ### 4. 분석 방법
 
+![Graph](https://github.com/s2irene/Skku_class/assets/88326175/c6853f72-c56f-4960-92ce-f5e9a0f5104e)
+
 * **분석 방향:**
     * 통계 분석
     * 텍스트 분석 (필요 시-댓글 분석석)
