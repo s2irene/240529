@@ -16,7 +16,7 @@
     * 공공데이터포털, 방송통신위원회
     * TMDB API
     * Trakt.tv API
-    * Twitter, Laftel API Wrapper 등
+    * Laftel API Wrapper
  
 * **활용할 데이터 확장자:**
     * MS Excel
