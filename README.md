@@ -17,7 +17,7 @@
     * TMDB API
     * JustWatch API
     * Trakt.tv API
-    * 애니메이션 제작사, 플랫폼 데이터 - 라프텔
+    * 트위터, 라프텔 등
  
 * **활용할 데이터 확장자:**
     * MS Excel
