@@ -15,7 +15,6 @@
 * **데이터 출처:**
     * 공공데이터포털, 방송통신위원회
     * TMDB API
-    * JustWatch API
     * Trakt.tv API
     * 트위터, 라프텔 등
  
